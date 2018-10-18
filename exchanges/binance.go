@@ -21,8 +21,9 @@ import (
 	"fmt"
 	"time"
 
+	"golang-crypto-trading-bot/environment"
+
 	"github.com/adshao/go-binance"
-	"github.com/saniales/golang-crypto-trading-bot/environment"
 	"github.com/shopspring/decimal"
 )
 

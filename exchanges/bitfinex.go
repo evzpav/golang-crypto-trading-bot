@@ -8,8 +8,9 @@ import (
 
 	"github.com/shopspring/decimal"
 
+	"golang-crypto-trading-bot/environment"
+
 	bitfinex "github.com/bitfinexcom/bitfinex-api-go/v1"
-	"github.com/saniales/golang-crypto-trading-bot/environment"
 )
 
 // BitfinexWrapper provides a Generic wrapper of the Bitfinex API.

@@ -5,8 +5,8 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/saniales/golang-crypto-trading-bot/environment"
-	"github.com/saniales/golang-crypto-trading-bot/exchanges"
+	"golang-crypto-trading-bot/environment"
+	"golang-crypto-trading-bot/exchanges"
 )
 
 // WebsocketStrategy polls data from a websocket in real-time.

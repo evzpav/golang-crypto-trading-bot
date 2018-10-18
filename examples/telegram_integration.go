@@ -3,9 +3,9 @@ package strategies
 import (
 	"time"
 
-	"github.com/saniales/golang-crypto-trading-bot/environment"
-	"github.com/saniales/golang-crypto-trading-bot/exchanges"
-	"github.com/saniales/golang-crypto-trading-bot/strategies"
+	"golang-crypto-trading-bot/environment"
+	"golang-crypto-trading-bot/exchanges"
+	"golang-crypto-trading-bot/strategies"
 	"github.com/sirupsen/logrus"
 	tb "gopkg.in/tucnak/telebot.v2"
 )

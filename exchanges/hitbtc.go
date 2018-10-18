@@ -20,8 +20,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/saniales/go-hitbtc"
-	"github.com/saniales/golang-crypto-trading-bot/environment"
+	"golang-crypto-trading-bot/environment"
+
+	hitbtc "github.com/saniales/go-hitbtc"
 	"github.com/shopspring/decimal"
 )
 
